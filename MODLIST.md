@@ -58,13 +58,11 @@ Make sure there's a shop block
 ## UI
 
 - [Controlling](https://minecraft.curseforge.com/projects/controlling): Search the key bindings
-- [HWYLA](https://minecraft.curseforge.com/projects/hwyla): Block hover info
-	- [WAWLA](https://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at): More hover info
 - [Inventory Tweaks](https://minecraft.curseforge.com/projects/inventory-tweaks): Easier inventory management, auto-swap broken tools, etc.
 - [Just Enough Items](https://minecraft.curseforge.com/projects/jei): Recipe dictionary
 	- [Just Enough Resources](https://minecraft.curseforge.com/projects/just-enough-resources-jer): Spawn levels, loot/drop chances
 	- [Just Enough Harvestcraft](https://minecraft.curseforge.com/projects/just-enough-harvestcraft): Pam's harvestcraft integration
-- [Xaeros Minimap](https://minecraft.curseforge.com/projects/xaeros-minimap): Lightweight minimap
+- [JourneyMap](https://minecraft.curseforge.com/projects/journeymap): Minimap
 - [WebDisplays](https://montoyo.net/wd3/?modid=webdisplays): Chromium in-game
 
 ## Food & Hunger
@@ -149,3 +147,4 @@ Make sure there's a shop block
 - [Gravestones](https://minecraft.curseforge.com/projects/gravestone-mod-graves): Keep your stuff in a grave when you die
 - [Morpheus](https://minecraft.curseforge.com/projects/morpheus): Auto-vote to sleep
 - [UniDict](https://minecraft.curseforge.com/projects/unidict): Standardise all the ores
+- [The One Probe](https://minecraft.curseforge.com/projects/the-one-probe): Block hover info
