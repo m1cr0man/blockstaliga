@@ -38,3 +38,8 @@ There is nothing in either of the mods that can't be crafted already.
 # WR CBE
 
 There are utilities in RFTools to cover this
+
+# Compact Machines
+
+It's using an outdated COFHLib and I can't enable it safely. I will certainly
+be adding it if is updated.

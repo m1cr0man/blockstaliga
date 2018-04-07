@@ -17,6 +17,7 @@ Make sure there's a shop block
 	- Ender Storage
 	- Thermal Expansion
 	- WRCBE
+	- Brandon's Core
 - [Zero Core](https://minecraft.curseforge.com/projects/zerocore)
 	- Extreme Reactors
 - [Tesla](https://minecraft.curseforge.com/projects/tesla)
@@ -54,6 +55,10 @@ Make sure there's a shop block
 	- WRCBE
 - [McJtyLib](https://minecraft.curseforge.com/projects/mcjtylib)
 	- RFTools *
+- [IVToolkit](https://minecraft.curseforge.com/projects/ivtoolkit)
+	- Recurrent Complex
+- [Brandon's Core](https://minecraft.curseforge.com/projects/brandons-core)
+	- Draconic Evolution
 
 ## UI
 
