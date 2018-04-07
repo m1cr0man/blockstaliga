@@ -18,3 +18,10 @@ Must be reinvestigated when mods are added.
 - Both had the same performance impact
 - JourneyMap has more downloads, thus more people are familiar with it
 - JourneyMap hides parts of the map you can't actually see
+
+# Hunger Overhaul
+
+I removed this mod because it's very agressive. If you wanted to run a real
+tough survival playthrough this would be essential. However with the main focus
+of this pack being tech, and with Spice of Life forcing variation in meals well
+enough, I think this can be left out.
