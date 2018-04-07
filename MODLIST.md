@@ -125,7 +125,6 @@ Make sure there's a shop block
 
 - [Galacticraft](https://micdoodle8.com/mods/galacticraft): SPAAACE
 	- [Galacticraft Planets](https://micdoodle8.com/mods/galacticraft): Planets for space
-- [Extra Utilities](https://minecraft.curseforge.com/projects/extra-utilities): Tons of random, useful stuff. Most importantly the Ender Quarry
 - [OpenBlocks](https://minecraft.curseforge.com/projects/openblocks): More random, useful stuff
 - [NuclearCraft](https://minecraft.curseforge.com/projects/nuclearcraft-mod): Fission and fusion energy
 - [Industrial Foregoing](https://minecraft.curseforge.com/projects/industrial-foregoing): New MFR. Adds utility machines
