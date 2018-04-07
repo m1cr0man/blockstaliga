@@ -43,3 +43,8 @@ There are utilities in RFTools to cover this
 
 It's using an outdated COFHLib and I can't enable it safely. I will certainly
 be adding it if is updated.
+
+# Classic Combat
+
+Not added because it's not actually wholly effective at disabling the
+new combat. There is still the long swing animations.

@@ -47,6 +47,7 @@ Make sure there's a shop block
 	- WebDisplays
 - [Redstone Flux](https://minecraft.curseforge.com/projects/redstone-flux)
 	- Teslafied
+	- Not Enough Wands
 - [Chameleon](https://minecraft.curseforge.com/projects/chameleon)
 	- Storage Drawers
 - [FTBLib](https://minecraft.curseforge.com/projects/ftblib)
@@ -59,6 +60,8 @@ Make sure there's a shop block
 	- Recurrent Complex
 - [Brandon's Core](https://minecraft.curseforge.com/projects/brandons-core)
 	- Draconic Evolution
+- [Forgelin](https://minecraft.curseforge.com/projects/shadowfacts-forgelin)
+	- Tesla Core Lib
 
 ## UI
 
@@ -104,13 +107,13 @@ Make sure there's a shop block
 
 ## Weapon and Armour
 
-- [Classic Combat](https://minecraft.curseforge.com/projects/classic-combat): Proper combat
 - *[Robotic Parts](https://minecraft.curseforge.com/projects/roboticparts): Deus Ex
 - *[ReWIRED](https://minecraft.curseforge.com/projects/rewired): Deus Ex: Human Evolution
 - [Tinker's Construct](https://minecraft.curseforge.com/projects/tinkers-construct): Tools from any material
 	- [PlusTIC](https://minecraft.curseforge.com/projects/plustic): Mod compatibility
 	- [Construct's Armory](https://minecraft.curseforge.com/projects/constructs-armory): Armour forging
 - [Simply Jetpacks 2](https://minecraft.curseforge.com/projects/simply-jetpacks-2): Jetpacks
+- [Not Enough Wands](https://minecraft.curseforge.com/projects/not-enough-wands): Builders wand and other useful wands
 
 ## Transport
 
