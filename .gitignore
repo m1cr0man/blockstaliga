@@ -1,5 +1,8 @@
 # MultiMC
 MultiMC/
 
+# MC Server
+server/
+
 # Windows links
 *.lnk
