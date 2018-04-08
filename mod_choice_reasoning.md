@@ -63,3 +63,8 @@ Not needed because OpenBlocks has elevators
 # Iron Chests
 
 Use barrels for early game storage, and then just get yourself some AE2 storage
+
+# Pneumatic Craft
+
+It just adds guns. The drones are cool but it doesn't justify setting the whole
+mod up.
