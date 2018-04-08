@@ -55,3 +55,11 @@ It is currently very incomplete. It adds 2 dimensions, 1 of which is exclusive
 to the quantum quarry. The regular ender quarry is gone so stripping the deep
 dark is no longer a thing. The in game documentation is not up to date.
 Everything else is present in other mods.
+
+# EU Elevators
+
+Not needed because OpenBlocks has elevators
+
+# Iron Chests
+
+Use barrels for early game storage, and then just get yourself some AE2 storage

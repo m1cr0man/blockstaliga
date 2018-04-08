@@ -56,12 +56,15 @@ Make sure there's a shop block
 	- WRCBE
 - [McJtyLib](https://minecraft.curseforge.com/projects/mcjtylib)
 	- RFTools *
+	- XNet
 - [IVToolkit](https://minecraft.curseforge.com/projects/ivtoolkit)
 	- Recurrent Complex
 - [Brandon's Core](https://minecraft.curseforge.com/projects/brandons-core)
 	- Draconic Evolution
 - [Forgelin](https://minecraft.curseforge.com/projects/shadowfacts-forgelin)
 	- Tesla Core Lib
+- [Connected Textures Mod](https://minecraft.curseforge.com/projects/ctm)
+	- Chisel
 
 ## UI
 
@@ -101,6 +104,7 @@ Make sure there's a shop block
 
 ## Decorative
 
+- [Chisel](https://minecraft.curseforge.com/projects/chisel): Texture variations
 - [Chisels & Bits](https://minecraft.curseforge.com/projects/chisels-bits): Create subgrid modifications to blocks for designing custom blocks
 	- [Extra Bit Manipulation](https://minecraft.curseforge.com/projects/extra-bit-manipulation): Mirror planes and stuff
 - [Secret Rooms](https://minecraft.curseforge.com/projects/secretroomsmod): Hide your stuff in plain sight
@@ -128,13 +132,15 @@ Make sure there's a shop block
 - [OpenBlocks](https://minecraft.curseforge.com/projects/openblocks): More random, useful stuff
 - [NuclearCraft](https://minecraft.curseforge.com/projects/nuclearcraft-mod): Fission and fusion energy
 - [Industrial Foregoing](https://minecraft.curseforge.com/projects/industrial-foregoing): New MFR. Adds utility machines
+	- [Integration Foregoing](https://minecraft.curseforge.com/projects/integration-foregoing): Mod compatibility
 - [Thermal Expansion](https://minecraft.curseforge.com/projects/thermalexpansion): Lots of machines
-	- [Solar Flux Reborn](https://minecraft.curseforge.com/projects/solar-flux-reborn): Solar panels
 - [PneumaticCraft](https://minecraft.curseforge.com/projects/pneumaticcraft-repressurized): Do stuff with air power
 - [Draconic Evolution](https://minecraft.curseforge.com/projects/draconic-evolution): End-game power storage, tools, armour, and a bigger badder ender dragon
 - [RFTools](https://minecraft.curseforge.com/projects/rftools): Teleports, power gen, lots of other stuff
 	- [RFTools Dimensions](https://minecraft.curseforge.com/projects/rftools-dimensions): Imagine ProjectE and Mystcraft combined
 	- [RFTools Control](https://minecraft.curseforge.com/projects/rftools-control): GUI Programmable automation
+- [Mekanism](https://minecraft.curseforge.com/projects/mekanism): Tech in the form of more than just square blocks. Provides all transport pipes.
+	- [Mekanism Generators](https://minecraft.curseforge.com/projects/mekanism-generators): Lovely power generation blocks
 
 ## Animals
 
