@@ -14,6 +14,7 @@ It's in its own file, [click here](MODLIST.md)
 ## TODO
 
 - Generate JER data
+- Remove EnderIO
 - Switch to CoFH World for all ore gen
 - Quests to stop the gaming getting boring
 - Technic launcher release?
