@@ -1,0 +1,28 @@
+{
+	"dependencies": "galacticraftcore",
+	"populate": {
+		"aluminum": {
+			"distribution": "uniform",
+			"generator": {
+				"block": [{
+					"name": "galacticraftcore:basic_block_core",
+					"metadata": 7
+				}],
+				"material": "stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 6,
+			"min-height": 30,
+			"max-height": 70,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}
