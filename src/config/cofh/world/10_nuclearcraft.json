@@ -1,0 +1,28 @@
+{
+	"dependencies": "nuclearcraft",
+	"populate": {
+		"lead": {
+			"distribution": "uniform",
+			"generator": {
+				"block": [{
+					"name": "nuclearcraft:ore",
+					"metadata": 2
+				}],
+				"material": "stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 3,
+			"min-height": 10,
+			"max-height": 50,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

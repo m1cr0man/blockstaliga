@@ -68,3 +68,7 @@ Use barrels for early game storage, and then just get yourself some AE2 storage
 
 It just adds guns. The drones are cool but it doesn't justify setting the whole
 mod up.
+
+# Better Builders Wands Vs Not Enough Wands
+
+Realistically, all I wanted to add was a builders wand. The former does just that
