@@ -6,3 +6,11 @@ server/
 
 # Windows links
 *.lnk
+
+# Editors
+.idea/
+.vscode/
+*.iml
+
+# Other
+hidden/
