@@ -72,3 +72,8 @@ mod up.
 # Better Builders Wands Vs Not Enough Wands
 
 Realistically, all I wanted to add was a builders wand. The former does just that
+
+# Doggy Talents Vs Sophisticated Wolves
+
+Doggy talents is cool and all but really there's too much other stuff to do in
+the pack
