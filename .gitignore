@@ -2,7 +2,8 @@
 MultiMC/
 
 # MC Server
-server/
+server/*
+!server/server.properties
 
 # Windows links
 *.lnk
