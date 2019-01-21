@@ -1,5 +1,5 @@
 # MultiMC
-MultiMC/
+MultiMC*/
 
 # MC Server
 server/*
@@ -15,3 +15,5 @@ server/*
 
 # Other
 hidden/
+updates/
+ramdisk/
