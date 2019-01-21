@@ -21,7 +21,7 @@ oldDeathpoints:true
 distance:1
 showCoords:true
 lockNorth:true
-zoom:2
+zoom:3
 mapSize:-1
 entityAmount:1
 chunkGrid:-4
@@ -55,6 +55,7 @@ heightLimit:20
 worldMap:true
 terrainDepth:true
 terrainSlopes:true
+terrainSlopesExperiment:false
 alwaysArrow:false
 blockTransparency:true
 waypointOpacityIngame:80
@@ -62,9 +63,10 @@ waypointOpacityMap:90
 hideWorldNames:false
 openSlimeSettings:true
 alwaysShowDistance:false
-interface::0:0:false:false:true
-interface::0:135:false:false:false
-interface::120:0:true:false:false
-interface::0:50:true:false:false
-interface:gui.xaero_minimap:0:0:false:false:true
+playerNames:true
+interface:dummy:0:0:true:false:false:false
+interface:dummy:0:10000:true:false:false:false
+interface:dummy:0:0:false:false:true:false
+interface:dummy:0:36:true:false:false:false
+interface:gui.xaero_minimap:0:0:false:false:true:false
 #WAYPOINTS HAVE BEEN MOVED TO xaerowaypoints.txt!

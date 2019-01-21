@@ -16,3 +16,6 @@ It's in its own file, [click here](MODLIST.md)
 - Switch to CoFH World for all ore gen
 - Quests to stop the gaming getting boring
 - Technic launcher release?
+- Fix AW storage block team access
+- Remove storage drawers?
+- Enable JEI serverside
