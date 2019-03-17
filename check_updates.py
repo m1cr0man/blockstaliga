@@ -7,13 +7,20 @@ if not os.path.exists('updates'):
     os.mkdir('updates')
 
 def get_file(modid, fileId):
-    res = requests.get(API_ROOT + '/addon/{}/file/{}'.format(modid, fileId))
+    try:
+        res = requests.get(API_ROOT + '/addon/{}/file/{}'.format(modid, fileId))
+    except Exception:
+        print('Failed to download', fileData['downloadUrl'])
     return res.json()
 
 def download_file(fileData):
-    res = requests.get(fileData['downloadUrl'])
     if os.path.exists('updates/' + fileData['fileNameOnDisk']):
         print('Skipping')
+        return
+    try:
+        res = requests.get(fileData['downloadUrl'])
+    except Exception:
+        print('Failed to download', fileData['downloadUrl'])
         return
     with open('updates/' + fileData['fileNameOnDisk'], 'wb') as out_file:
         out_file.write(res.content)
@@ -53,11 +60,13 @@ def main():
             modfname = latest['projectFileName']
             if '.jar' not in modfname:
                 latest_file = get_file(modid, latest['projectFileId'])
-                modfname = latest_file['fileNameOnDisk']
+                modfname = latest_file['fileNameOnDisk'].replace('.jar', '')
 
             if modfname.lower() != modname.lower():
                 print(modname, '->', modfname)
                 print('Downloading')
+                if modfname + '.jar' in os.listdir('updates'):
+                    continue
                 download_file(latest_file or get_file(modid, latest['projectFileId']))
 
 if __name__ == '__main__':
