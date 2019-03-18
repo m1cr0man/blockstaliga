@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
-fullscreen:false
+fullscreen:true
 enableVsync:true
 useVbo:true
 hideServerAddress:false
@@ -89,33 +89,32 @@ key_of.key.zoom:29
 key_bloodmagic.keybind.open_holding:35
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
 key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT
-key_enderio.keybind.glidertoggle:34
-key_enderio.keybind.soundlocator:0
-key_enderio.keybind.nightvision:25
-key_enderio.keybind.gogglesofrevealing:0
-key_enderio.keybind.stepassist:0
-key_enderio.keybind.speed:0
-key_enderio.keybind.jump:0
-key_enderio.keybind.top:0
-key_enderio.keybind.yetawrenchmode:21
-key_enderio.keybind.magnet:0
-key_enderio.keybind.fovreset:0
-key_enderio.keybind.fovplus:0
-key_enderio.keybind.fovminus:0
-key_enderio.keybind.fovplusfast:0
-key_enderio.keybind.fovminusfast:0
 key_key.conarm.toggle_helm.desc:34
 key_key.conarm.toggle_chest.desc:35
 key_key.conarm.toggle_leg.desc:36
-key_key.conarm.toggle_boots.desc:37
-key_doggytalents.key.come:200
-key_doggytalents.key.stay:208
-key_doggytalents.key.ok:203
-key_doggytalents.key.heel:205
 key_openblocks.keybind.vario_switch:47
 key_openblocks.keybind.vario_vol_up:0
 key_openblocks.keybind.vario_vol_down:0
 key_key.wearablebackpacks.open:48
+key_keybind.awCore.alt.item.use.1:44
+key_keybind.awCore.alt.item.use.2:45
+key_keybind.awCore.alt.item.use.3:46
+key_keybind.awCore.alt.item.use.4:47
+key_keybind.awCore.alt.item.use.5:48
+key_keybind.awAutomation.toggle_workbounds_render:66
+key_keybind.vehicle.forward:17
+key_keybind.vehicle.reverse:31
+key_keybind.vehicle.left:30
+key_keybind.vehicle.right:32
+key_keybind.vehicle.ascend.aim.up:19
+key_keybind.vehicle.descend.aim.down:33
+key_keybind.vehicle.fire:57
+key_keybind.vehicle.ammo.prev:20
+key_keybind.vehicle.ammo.next:34
+key_keybind.vehicle.turret.left:44
+key_keybind.vehicle.turret.right:45
+key_keybind.vehicle.mouse.aim:46
+key_keybind.vehicle.ammo.select:47
 key_key.jei.toggleOverlay:24
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -150,19 +149,26 @@ key_mod.chiselsandbits.other.mode:56
 key_mod.chiselsandbits.other.rotate.ccw:0
 key_mod.chiselsandbits.other.rotate.cw:0
 key_mod.chiselsandbits.other.pickbit:0
+key_mod.chiselsandbits.other.offgrid:0
 key_mod.chiselsandbits.other.undo:0
 key_mod.chiselsandbits.other.redo:0
 key_mod.chiselsandbits.other.add_to_clipboard:0
+key_key.cofh.multimode:47
+key_key.refinedstorage.focusSearchBar:15
+key_key.refinedstorage.clearGridCraftingMatrix:45:CONTROL
 key_key.placeItem:25
 key_key.toolConfig:46
 key_key.toolProfileChange:43
+key_key.armorProfileChange:43:ALT
 key_key.toggleFlight:0
-key_[GC] Galaxy Map:50
-key_[GC] Open Spaceship Inventory:34
-key_[GC] Toggle Sensor Goggles Mode:37
+key_key.toggleDislocator:0
+key_key.toggleLiquids:38
+key_key.toggleVisible:0
+key_key.immersiveengineering.magnetEquip:31
+key_key.immersiveengineering.chemthrowerSwitch:0
 key_Mekanism Item Mode Switch:50
 key_Mekanism Armor Mode Switch:34
-key_Mekanism Feet Mode Switch:43
+key_Mekanism Feet Mode Switch:35
 key_Mekanism Voice:22
 key_key.porterNextDestination:27
 key_key.porterPrevDestination:26
@@ -175,11 +181,7 @@ key_key.plustic_toggle_gui.desc:23
 key_key.plustic_set_portal.desc:49
 key_key.plustic_brown_magic.desc:24
 key_key.plustic_toggle_tool.desc:51:ALT
-key_key.refinedstorage.focusSearchBar:15
-key_key.refinedstorage.clearGridCraftingMatrix:45:CONTROL
-key_key.toggleLiquids:38
-key_key.toggleVisible:0
-key_gui.xaero_minimap_settings:40
+key_gui.xaero_minimap_settings:41
 key_gui.xaero_switch_waypoint_set:0
 key_gui.xaero_instant_waypoint:78
 key_gui.xaero_toggle_slime:0
@@ -191,9 +193,10 @@ key_gui.xaero_waypoints_key:22
 key_gui.xaero_zoom_in:23
 key_gui.xaero_zoom_out:24
 key_gui.xaero_new_waypoint:48
+key_key.secretroomsmod.oneWayface:43
 soundCategory_master:1.0
-soundCategory_music:0.1056338
-soundCategory_record:1.0
+soundCategory_music:0.0
+soundCategory_record:0.09154929
 soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
