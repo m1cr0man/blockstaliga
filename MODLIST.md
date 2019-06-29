@@ -3,10 +3,6 @@
 If you recognise one of your own mods here, and don't want it
 in this pack for some reason, just open an issue.
 
-## TODO
-
-Make sure there's a shop block
-
 ## Required Libraries
 
 - [Apple Core](https://minecraft.curseforge.com/projects/applecore)
