@@ -1,0 +1,30 @@
+{
+	"priority": 10000000000,
+	"populate": {
+		"osmium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "mekanism:oreblock",
+					"properties": {
+						"type": "osmium"
+					}
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 8
+			},
+			"cluster-count": 10,
+			"min-height": 15,
+			"max-height": 65,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

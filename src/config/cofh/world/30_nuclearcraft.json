@@ -1,0 +1,97 @@
+{
+	"priority": 1000000000,
+	"populate": {
+
+		"tin": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "nuclearcraft:ore",
+					"properties": {
+						"type": "tin"
+					}
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 12
+			},
+			"cluster-count": 11,
+			"min-height": 35,
+			"max-height": 85,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+
+		"thorim_boron": {
+			"distribution": "uniform",
+			"generator": {
+				"block": [{
+					"name": "nuclearcraft:ore",
+					"properties": {
+						"type": "thorium"
+					},
+					"weight": 40
+				}, {
+					"name": "nuclearcraft:ore",
+					"properties": {
+						"type": "boron"
+					},
+					"weight": 60
+				}],
+				"material": "minecraft:stone",
+				"cluster-size": 6
+			},
+			"cluster-count": 7,
+			"min-height": 8,
+			"max-height": 40,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+
+		"lithium_magnesium": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": [{
+					"name": "nuclearcraft:ore",
+					"properties": {
+						"type": "magnesium"
+					},
+					"weight": 40
+				}, {
+					"name": "nuclearcraft:ore",
+					"properties": {
+						"type": "lithium"
+					},
+					"weight": 60
+				}],
+				"material": "minecraft:stone",
+				"cluster-size": 6
+			},
+			"cluster-count": 5,
+			"center-height": 18,
+			"spread": 10,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}
