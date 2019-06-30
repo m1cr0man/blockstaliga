@@ -110,7 +110,6 @@ in this pack for some reason, just open an issue.
 	- [Construct's Armory](https://minecraft.curseforge.com/projects/constructs-armory): Armour forging
 	- [Tinkered Hegemony](https://minecraft.curseforge.com/projects/tinkered-hegemony): OreDict for TiC tools in recipes using vanilla tools
 	- [Tinker's JEI](https://minecraft.curseforge.com/projects/tinkers-jei): See material stats in JEI
-- [Simply Jetpacks 2](https://minecraft.curseforge.com/projects/simply-jetpacks-2): Jetpacks
 - [Wearable Backpacks](https://minecraft.curseforge.com/projects/wearable-backpacks): Interactable, Placeable, Robbable!
 - [Ancient Warfare](https://minecraft.curseforge.com/projects/ancient-warfare-2): Adds armies, ballistas, seige towers, etc.
 - [Trapcraft](https://minecraft.curseforge.com/projects/trapcraft): Good for mob farms and killing people
