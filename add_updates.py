@@ -4,7 +4,8 @@ MOD_MATCHER = r'^[a-z\-_]+'
 j = os.path.join
 
 def get_mod_name(fname: str):
-    return re.match(MOD_MATCHER, fname, flags=re.IGNORECASE).group(0)
+    match = re.match(MOD_MATCHER, fname, flags=re.IGNORECASE)
+    return match and match.group(0) or ''
 
 def main():
     folder = sys.argv[1]
