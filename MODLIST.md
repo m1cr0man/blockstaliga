@@ -154,7 +154,6 @@ in this pack for some reason, just open an issue.
 
 - [MineCoprocessors](https://minecraft.curseforge.com/projects/minecoprocessors): Frikken Redstone with frikken Assembly code!
 - [OpenComputers](https://minecraft.curseforge.com/projects/opencomputers): Programmable logic controllers and robots
-- [WRCBE](https://minecraft.curseforge.com/projects/wireless-redstone-cbe): Wireless Redstone
 
 ## Misc
 
