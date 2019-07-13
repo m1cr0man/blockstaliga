@@ -1,4 +1,4 @@
-# Blockstaliga - A modpack for returning players
+# Blockstalgia - A Modpack for Returning Players
 
 Bring back the fun of playing a voxel sandbox without the boringness
 of knowing how every mod works.
