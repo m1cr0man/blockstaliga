@@ -1,0 +1,55 @@
+#title {
+    font-family: 'Catamaran', sans-serif;
+    font-size: 10vmin;
+    text-align: center;
+    -webkit-text-stroke: 0.25vmin black;
+    color: white;
+    text-shadow:
+       3px 3px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+#main {
+    margin: 0 10vw;
+    padding: 1em;
+    border-radius: 15px;
+    background-color: rgba(250, 250, 250, 0.8);
+}
+
+
+
+.description {
+  display: block;
+}
+.links {
+  display: block;
+}
+.creator {
+  position: fixed;
+  width: 100%;
+  bottom: 5px;
+  text-align: center;
+  font-size: 1vw;
+}
+
+
+
+html, body {
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+}
+body {
+    background: center / cover no-repeat url(../assets/basictemple.png) #cccccc;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+h1 {
+    margin: 10vh 0;
+    display: inline-block;
+}
