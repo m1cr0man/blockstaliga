@@ -84,7 +84,6 @@ in this pack for some reason, just open an issue.
 - [Twillight Forest](https://minecraft.curseforge.com/projects/the-twilight-forest): Same as above
 - [Treasure 2](https://minecraft.curseforge.com/projects/treasure2): Treasure chests
 - DEBATEABLE [Dungeons 2](https://minecraft.curseforge.com/projects/dungeons2): More dungeon layouts
-- [Millénaire](https://minecraft.curseforge.com/projects/millenaire): Adds interactable AI to villages
 
 ## Storage
 
@@ -94,7 +93,6 @@ in this pack for some reason, just open an issue.
 - [Refined Storage](https://minecraft.curseforge.com/projects/refined-storage): Store stuff in hard disks. Also has an autocrafting system
 	- [Reborn Storage](https://minecraft.curseforge.com/projects/rebornstorage): Adds larger disks and multi block crafters for speed
 	- [Refined Storage Addons](https://minecraft.curseforge.com/projects/refined-storage-addons): Wireless crafting terminal
-- REMOVED [Compact Machines](https://minecraft.curseforge.com/projects/compact-machines): Technically storage.. for entire factories
 
 ## Decorative
 
@@ -158,7 +156,6 @@ in this pack for some reason, just open an issue.
 ## Misc
 
 - [Better Builder\'s Wands](https://minecraft.curseforge.com/projects/better-builders-wands): Tools to help speed up building in survival
-- REMOVED [Gravestones](https://minecraft.curseforge.com/projects/gravestone-mod-graves): Keep your stuff in a grave when you die
 - [Morpheus](https://minecraft.curseforge.com/projects/morpheus): Auto-vote to sleep
 - [UniDict](https://minecraft.curseforge.com/projects/unidict): Standardise all the ores
 - [The One Probe](https://minecraft.curseforge.com/projects/the-one-probe): Block hover info

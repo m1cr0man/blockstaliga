@@ -11,8 +11,14 @@ of mods in here, although you may not recognise many of them.
 
 It's in its own file, [click here](MODLIST.md)
 
+## Updating and preserving your data
+
+- Copy the folder `config/XaeroWaypoints` into the new instance
+- Copy options.txt, optionsof.txt and shaders.txt to save graphics + keyboard settings
+
+
 ## TODO
 
+- SOL Carrot edition
 - Quests to stop the gaming getting boring
-- Technic launcher release?
 - Fix AW storage block team access
